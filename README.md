@@ -14,11 +14,11 @@
 ---
 
 ## 🛠 Tech Stack  
-- **Languages:** Java ☕, SQL 🗄️  
-- **Testing:** Selenium WebDriver 🤖, TestNG, JUnit  
+- **Languages:** Java ☕ 
+- **Testing:** Selenium WebDriver 🤖, TestNG
 - **Build Tools:** Maven ⚙️  
 - **Version Control:** Git & GitHub 🌍  
-- **CI/CD:** Jenkins, GitHub Actions 🚀  
+- **CI/CD:** Jenkins
 - **Database:** MySQL 🗂️  
 
 ---
