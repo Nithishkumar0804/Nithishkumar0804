@@ -14,16 +14,16 @@
 ---
 
 ## 🛠 Tech Stack  
-- **Languages:** Java ☕ 
-- **Testing:** Selenium WebDriver 🤖, TestNG
+- **Languages:** Java ☕  
+- **Testing:** Selenium WebDriver 🤖, TestNG  
 - **Build Tools:** Maven ⚙️  
 - **Version Control:** Git & GitHub 🌍  
-- **CI/CD:** Jenkins
+- **CI/CD:** Jenkins  
 - **Database:** MySQL 🗂️  
 
 ---
 
-## 📌 Featured Projects  
+## 📚 Learned Repositories  
 
 ### 🔹 [Selenium_Basics](https://github.com/Nithishkumar0804/Selenium_Basics)  
 Practice repo containing core Selenium WebDriver automation scripts covering all fundamental functionalities.  
@@ -34,8 +34,16 @@ Data-driven Selenium automation using Excel with file upload & download function
 ### 🔹 [CrossBrowserTesting](https://github.com/Nithishkumar0804/CrossBrowserTesting)  
 Cross-browser test execution using WebDriverManager & TestNG (Chrome, Firefox, Edge, etc.).  
 
+---
+
+## 📌 Featured Projects  
+
 ### 🔹 [SeleniumFramework_CICD](https://github.com/Nithishkumar0804/SeleniumFramework_CICD)  
 Advanced Selenium Automation Framework using **Page Object Model (POM)**, integrated with **CI/CD pipelines** for scalable test automation.  
+
+### 🔹 [ParaBank_Hybrid_Automation_Framework](https://github.com/Nithishkumar0804/ParaBank_Hybrid_Automation_Framework)  
+Hybrid Automation Framework for **ParaBank Application**, designed using **Java, Selenium, TestNG, Maven, Page Object Model (POM) with PageFactory**.  
+Includes **Extent Reports, Listeners, Screenshot on Failure**, and supports **CI/CD with Jenkins** and **Docker-based execution**.  
 
 ---
 
@@ -45,4 +53,5 @@ Advanced Selenium Automation Framework using **Page Object Model (POM)**, integr
 - 🌍 [GitHub](https://github.com/Nithishkumar0804)  
 
 ---
+
 ✨ *Open to opportunities in Automation Testing | QA | Test Automation Engineering* ✨
