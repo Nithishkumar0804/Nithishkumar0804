@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nithishkumar R  
 
-⚡ **Automation Enthusiast** | 🤖 **Selenium** | 📑 **Framework Design** | 🚀 **CI/CD**  
+⚡ **Automation Enthusiast** | 🤖 **Selenium & RestAssured** | 📑 **Framework Design (POM, PageFactory)** | 🚀 **CI/CD**  
 
 ---
 
 ## 👨‍💻 About Me  
 - 💼 Completed **Manual Testing Internship** at Atmecs Technologies  
-- 🌱 Currently learning **Automation Testing with Selenium + Java**  
+- 🌱 Continuously learning and expanding skills in **Automation Testing (Web, API, and beyond)**  
 - 🛠 Skilled in designing **automation frameworks** and integrating with **CI/CD pipelines**  
 - 📍 Based in **Salem, India**  
 - 📬 Reach me at: [nithishkumar080417@gmail.com](mailto:nithishkumar080417@gmail.com)  
@@ -15,7 +15,8 @@
 
 ## 🛠 Tech Stack  
 - **Languages:** Java ☕  
-- **Testing:** Selenium WebDriver 🤖, TestNG  
+- **Testing:** Selenium WebDriver 🤖, RestAssured 🌐, TestNG, Postman 📮  
+- **Frameworks:** Page Object Model (POM), PageFactory, Cucumber (BDD) 🌱  
 - **Build Tools:** Maven ⚙️  
 - **Version Control:** Git & GitHub 🌍  
 - **CI/CD:** Jenkins  
@@ -23,27 +24,15 @@
 
 ---
 
-## 📚 Learned Repositories  
-
-### 🔹 [Selenium_Basics](https://github.com/Nithishkumar0804/Selenium_Basics)  
-Practice repo containing core Selenium WebDriver automation scripts covering all fundamental functionalities.  
-
-### 🔹 [DataDrivenExcel_UploadDownload](https://github.com/Nithishkumar0804/DataDrivenExcel_UploadDownload)  
-Data-driven Selenium automation using Excel with file upload & download functionality.  
-
-### 🔹 [CrossBrowserTesting](https://github.com/Nithishkumar0804/CrossBrowserTesting)  
-Cross-browser test execution using WebDriverManager & TestNG (Chrome, Firefox, Edge, etc.).  
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 [SeleniumFramework_CICD](https://github.com/Nithishkumar0804/SeleniumFramework_CICD)  
-Advanced Selenium Automation Framework using **Page Object Model (POM)**, integrated with **CI/CD pipelines** for scalable test automation.  
-
-### 🔹 [ParaBank_Hybrid_Automation_Framework](https://github.com/Nithishkumar0804/ParaBank_Hybrid_Automation_Framework)  
-Hybrid Automation Framework for **ParaBank Application**, designed using **Java, Selenium, TestNG, Maven, Page Object Model (POM) with PageFactory**.  
-Includes **Extent Reports, Listeners, Screenshot on Failure**, and supports **CI/CD with Jenkins** and **Docker-based execution**.  
+## 📚 Learned Areas  
+- Web Automation using Selenium  
+- API Automation using RestAssured  
+- API Testing using Postman (manual and automated collections)  
+- Framework Design with **POM & PageFactory**  
+- Hybrid & Data-Driven Frameworks  
+- Reporting (Extent Reports, Cucumber HTML Reports)  
+- CI/CD pipeline integration with Jenkins  
+- Cross-Browser Testing & Selenium Grid  
 
 ---
 
@@ -54,4 +43,4 @@ Includes **Extent Reports, Listeners, Screenshot on Failure**, and supports **CI
 
 ---
 
-✨ *Open to opportunities in Automation Testing | QA | Test Automation Engineering* ✨
+✨ *Open to opportunities in SDET* ✨ | Automation Testing | QA | Test Automation Engineering
