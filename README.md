@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithishkumar R  
 
-⚡ **Automation Enthusiast** | 🤖 **Selenium & RestAssured** | 📑 **Framework Design (POM, PageFactory)** | 🚀 **CI/CD**  
+⚡ **Automation Enthusiast** | 🤖 **Selenium & RestAssured** | 📑 **Framework Design** | 🚀 **CI/CD**  
 
 ---
 
